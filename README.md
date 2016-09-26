@@ -6,6 +6,6 @@ Tener en casa:
 Sublime text
 Apache + PHP + MySql (Windows WAMP/XAMP)
 /var/www/html
-c:\wampªhtdocs
+c:\wamp\htdocs
 
 
